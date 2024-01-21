@@ -1,11 +1,14 @@
 ### Hi there 👋
 
+- 🔭 I am engaged in work related to Statistics and Machine Learning.
+- 🤔 I am currently seeking opportunities in the fields of Data Science and Machine Learning Engineering.
+
 <!--
 **andyzhangstat/andyzhangstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on statistics and machine learning
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
