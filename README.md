@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I am engaged in work related to Statistics and Machine Learning.
+- 🔭 I am engaged in research related to Statistics and Machine Learning.
 - 🤔 I am currently seeking opportunities in the fields of Data Science and Machine Learning Engineering.
 
 <!--
