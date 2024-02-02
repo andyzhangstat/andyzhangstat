@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I am engaged in research related to statistical machine learning.
-- 🤔 I specialize in the development of statistical and machine learning software using Python, R, and C++.
+- 🤔 I specialize in the development of statistical and machine learning software.
 - ⚡  I enjoy experimenting with cutting-edge deep learning models using PyTorch.
 - 🌱 I am currently seeking job opportunities in the fields of data science.
 
