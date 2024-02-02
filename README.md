@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I am engaged in research related to Statistics and Machine Learning.
-- 🌱 I am currently seeking opportunities in the fields of Data Science and Machine Learning Engineering.
+- 🔭 I am engaged in research related to statistical machine learning.
+- 🤔 I specialize in the development of statistical and machine learning software using Python, R, and C++.
+- ⚡  I enjoy experimenting with cutting-edge deep learning models using PyTorch.
+- 🌱 I am currently seeking job opportunities in the fields of data science.
+
+
 
 <!--
 **andyzhangstat/andyzhangstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
