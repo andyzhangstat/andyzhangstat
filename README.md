@@ -1,13 +1,18 @@
-### Hi there 👋
+# Welcome to andyzhangstat's GitHub
+
+![](https://komarev.com/ghpvc/?username=andyzhangstat)
+
+Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist, machine learning engineer, and open-source community advocate.
 
 - 🔭 I am engaged in research related to statistical machine learning.
 - 🤔 I specialize in the development of statistical and machine learning software.
 - ⚡  I enjoy experimenting with cutting-edge deep learning models using PyTorch.
-- 🌱 I am currently seeking job opportunities in the fields of data science.
+- 🌌 I've been actively engaged in projects centered around LLMs and prompt engineering lately.
+- 🌱 I am currently seeking job opportunities in the fields of Data Science/Machine Learning/Quantitative Research! 
 
 
-
-- Analysis:
+### Using and learning 📚
+#### Analysis:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
@@ -21,7 +26,7 @@
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
 
 
-- Development:
+####  Development:
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -36,8 +41,28 @@
 
 
 
+### Some of my repo 📚
+
+**Python**
+
+- 🔭 [Python package for linear regression with coordinate descent algorithm.](https://github.com/UBC-MDS/lr_cd)
+
+- 🤖 [A Dashboard for LinkedIn Job Postings in the US](https://github.com/UBC-MDS/DSCI-532_2024_21_Job-Postings)
+
+- 🌑 [Data Science Workflows.](https://github.com/UBC-MDS/stock_price_direction_prediction_from_interest_and_inflation_rate)
+
+- 📘 [Python package for sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD)
+
+
+
+
+
+
+
 
 <!--
+
+- 🌍 
 **andyzhangstat/andyzhangstat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
