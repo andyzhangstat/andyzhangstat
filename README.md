@@ -5,10 +5,10 @@
 Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist, machine learning engineer, and open-source community advocate.
 
 - 🔭 I am engaged in research related to statistical machine learning.
-- 🤔 I specialize in the development of statistical and machine learning software.
+- 🤔 I specialize in the statistical modeling and development of machine learning software.
 - ⚡  I enjoy experimenting with cutting-edge deep learning models using PyTorch.
 - 🌌 I've been actively engaged in projects centered around LLMs and prompt engineering lately.
-- 🌱 I am currently seeking job opportunities in the fields of Data Science/Machine Learning/Quantitative Research! 
+- 🌱 I am currently seeking job opportunities in the fields of Data Science/Machine Learning! 
 
 
 ### Using and learning 📚
@@ -47,7 +47,7 @@ Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scie
 
 - 🔭 [Python package for linear regression with coordinate descent algorithm.](https://github.com/UBC-MDS/lr_cd)
 
-- 🤖 [A Dashboard for LinkedIn Job Postings in the US](https://github.com/UBC-MDS/DSCI-532_2024_21_Job-Postings)
+- 🤖 [A Dashboard for LinkedIn Job Postings in the US.](https://github.com/UBC-MDS/DSCI-532_2024_21_Job-Postings)
 
 - 🌑 [Data Science Workflows.](https://github.com/UBC-MDS/stock_price_direction_prediction_from_interest_and_inflation_rate)
 
