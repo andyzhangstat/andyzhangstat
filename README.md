@@ -53,7 +53,7 @@ Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scie
 
 - 📘 [Python package for sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD)
 
-
+- 📘 [Python package for two-way sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD2)
 
 
 
