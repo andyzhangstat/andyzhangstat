@@ -8,7 +8,7 @@ Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scie
 - 🤔 I specialize in the statistical modeling and development of machine learning software.
 - ⚡  I enjoy experimenting CV/NLP projects with cutting-edge deep learning models using PyTorch.
 - 🌌 I've been actively engaged in projects centered around RS/LLMs/RAG.
-- 🌱 I am currently seeking job opportunities in the fields of Data Science and Machine Learning.
+- 🌱 I am currently seeking job opportunities in the fields of data science and machine learning.
 
 
 ### Using and learning 📚
