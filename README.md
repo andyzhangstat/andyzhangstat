@@ -4,11 +4,11 @@
 
 Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist, machine learning engineer, and open-source community advocate.
 
-- 🔭 I am engaged in research related to statistical machine learning.
+- 🔭 I am engaged in research related to machine learning (Sparse PCA/tensor decomposition, stagewise algorithms etc.).
 - 🤔 I specialize in the statistical modeling and development of machine learning software.
-- ⚡  I enjoy experimenting with cutting-edge deep learning models using PyTorch.
-- 🌌 I've been actively engaged in projects centered around CV/NLP/REC SYS/LLMs/RAG.
-- 🌱 I am currently seeking job opportunities in the fields of Data Science/Machine Learning.
+- ⚡  I enjoy experimenting CV/NLP projects with cutting-edge deep learning models using PyTorch.
+- 🌌 I've been actively engaged in projects centered around RS/LLMs/RAG.
+- 🌱 I am currently seeking job opportunities in the fields of Data Science and Machine Learning.
 
 
 ### Using and learning 📚
@@ -43,11 +43,24 @@ Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scie
 
 ### Some of my repo 📚
 
-**Python**
+
+**RS**
+
+
+
+**LLMs/RAG**
+
+
+
+
+**Python Packages**
 
 - 📘 [Python package for sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD)
 
 - 📘 [Python package for two-way sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD2)
+
+
+**Python Projects** 
 
 - 🔭 [Python package for linear regression with coordinate descent algorithm.](https://github.com/UBC-MDS/lr_cd)
 
