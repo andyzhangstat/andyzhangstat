@@ -4,7 +4,7 @@
 
 Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist, machine learning engineer, and open-source community advocate.
 
-- 🔭 I am engaged in research related to machine learning (Sparse PCA/tensor decomposition, stagewise algorithms etc.).
+- 🔭 I was engaged in research related to machine learning (sparse PCA/tensor decomposition, stagewise algorithms etc.).
 - 🤔 I specialize in the statistical modeling and development of machine learning software.
 - ⚡  I enjoy experimenting CV/NLP projects with cutting-edge deep learning models using PyTorch.
 - 🌌 I've been actively engaged in projects centered around RS/LLMs/RAG.
