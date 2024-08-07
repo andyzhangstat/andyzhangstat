@@ -7,7 +7,7 @@ Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scie
 - 🔭 I was engaged in research related to machine learning (sparse PCA/tensor decomposition, stagewise algorithms etc.).
 - 🤔 I specialize in the statistical modeling and development of machine learning software.
 - ⚡  I enjoy experimenting CV/NLP projects with cutting-edge deep learning models using PyTorch.
-- 🌌 I've been actively engaged in projects centered around RS/LLMs/RAG.
+- 🌌 I've been actively engaged in projects centered around RecSys/LLMs/RAG.
 - 🌱 I am currently seeking job opportunities in the fields of data science and machine learning.
 
 
@@ -44,7 +44,7 @@ Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scie
 ### Some of my repo 📚
 
 
-**RS**
+**RecSys**
 
 
 
