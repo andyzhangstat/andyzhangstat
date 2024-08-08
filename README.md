@@ -1,4 +1,4 @@
-# Welcome to andyzhangstat's GitHub
+# Welcome to Andy Zhang's GitHub
 
 ![](https://komarev.com/ghpvc/?username=andyzhangstat)
 
