@@ -46,9 +46,12 @@ Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scie
 
 **RecSys**
 
+- [Projects related to recommendation system](https://github.com/andyzhangstat/RecSys)
 
 
-**LLMs/RAG**
+**LLMs**
+
+- [Projects related to large language models](https://github.com/andyzhangstat/RAG4fun)
 
 
 
