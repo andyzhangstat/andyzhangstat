@@ -2,16 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=andyzhangstat)
 
-Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist, machine learning engineer, and open-source community advocate.
+Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist, machine learning engineer, and open-source community advocate.
 
-- 🔭 I was engaged in research related to machine learning (sparse PCA/tensor decomposition, stagewise algorithms etc.).
-- 🤔 I specialize in the statistical modeling and development of machine learning software.
-- ⚡  I enjoy experimenting CV/NLP projects with cutting-edge deep learning models using PyTorch.
-- 🌌 I've been actively engaged in projects centered around RecSys/LLMs/RAG.
-- 🌱 I am currently seeking job opportunities in the fields of data science and machine learning.
+- I was engaged in research related to machine learning (sparse PCA/tensor decomposition, stagewise algorithms etc.).
+- I specialize in the statistical modeling and development of machine learning software.
+- I enjoy experimenting CV/NLP projects with cutting-edge deep learning models using PyTorch.
+- I've been actively engaged in projects centered around RecSys/LLMs/RAG.
+- I am currently seeking job opportunities in the fields of data science and machine learning.
 
 
-### Using and learning 📚
+### Using and learning 
 #### Analysis:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white)
@@ -41,7 +41,7 @@ Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scie
 
 
 
-### Some of my repo 📚
+### Some of my repo 
 
 
 **RecSys**
@@ -58,18 +58,18 @@ Hi there 👋, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scie
 
 **Python Packages**
 
-- 📘 [Python package for sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD)
+- [Python package for sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD)
 
-- 📘 [Python package for two-way sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD2)
+- [Python package for two-way sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD2)
 
 
 **Python Projects** 
 
-- 🔭 [Python package for linear regression with coordinate descent algorithm.](https://github.com/UBC-MDS/lr_cd)
+- [Python package for linear regression with coordinate descent algorithm.](https://github.com/UBC-MDS/lr_cd)
 
-- 🤖 [A Dashboard for LinkedIn Job Postings in the US.](https://github.com/UBC-MDS/DSCI-532_2024_21_Job-Postings)
+- [A Dashboard for LinkedIn Job Postings in the US.](https://github.com/UBC-MDS/DSCI-532_2024_21_Job-Postings)
 
-- 🌑 [Data Science Workflows.](https://github.com/UBC-MDS/stock_price_direction_prediction_from_interest_and_inflation_rate)
+- [Data Science Workflows.](https://github.com/UBC-MDS/stock_price_direction_prediction_from_interest_and_inflation_rate)
 
 
 
