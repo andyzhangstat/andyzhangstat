@@ -46,7 +46,7 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 
 **RecSys**
 
-- [Matrix factorization for recommendation system](https://github.com/andyzhangstat/MovieLens_Rec_Sys)
+- [Matrix factorization for recommendation system](https://github.com/andyzhangstat/MF_Rec_Sys)
 - [MIND recommendation system](https://github.com/andyzhangstat/MIND_Rec_Sys)
 
 **LLMs**
