@@ -12,6 +12,7 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 
 
 ### Using and learning 
+
 #### Analysis:
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=Python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=R&logoColor=white)
@@ -41,18 +42,22 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 
 
 
-### Some of my repo 
+### Some of my projects
 
 
-**RecSys**
+**Recommendation System**
 
 - [Matrix factorization for recommendation system](https://github.com/andyzhangstat/MF_Rec_Sys)
-- [Applications of recommendation system in various data](https://github.com/andyzhangstat/Rec_Sys)
+- [Applications of recommendation system in various datasets](https://github.com/andyzhangstat/Rec_Sys)
 
-**LLMs**
+**Large Language Models**
 
-- [Application of LLMs/RAG in personalized messages](https://github.com/andyzhangstat/RAG_LLMs)
+- [Applications of LLMs/RAG in personalized messages](https://github.com/andyzhangstat/RAG_LLMs)
 
+
+**Knowledge Graph**
+
+- [Applications of knowledge graph](https://github.com/andyzhangstat/KG)
 
 
 
@@ -63,7 +68,7 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 - [Python package for two-way sparse logistic singular value decomposition.](https://github.com/andyzhangstat/SLSVD2)
 
 
-**Python Projects** 
+**Course Projects** 
 
 - [Python package for linear regression with coordinate descent algorithm.](https://github.com/UBC-MDS/lr_cd)
 
