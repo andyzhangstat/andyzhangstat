@@ -72,9 +72,9 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 
 - [Python package for linear regression with coordinate descent algorithm.](https://github.com/UBC-MDS/lr_cd)
 
-- [A Dashboard for LinkedIn Job Postings in the US.](https://github.com/UBC-MDS/DSCI-532_2024_21_Job-Postings)
+- [Dashboard for LinkedIn job postings in the US.](https://github.com/UBC-MDS/DSCI-532_2024_21_Job-Postings)
 
-- [Data Science Workflows.](https://github.com/UBC-MDS/stock_price_direction_prediction_from_interest_and_inflation_rate)
+- [Workflow for data science project.](https://github.com/UBC-MDS/stock_price_direction_prediction_from_interest_and_inflation_rate)
 
 
 
