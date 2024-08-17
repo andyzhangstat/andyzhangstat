@@ -56,7 +56,7 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 
 **Search Engine**
 
-- [Semantic Search Engine Using the MIND Dataset](https://github.com/andyzhangstat/Semantic_Search)
+- [Semantic Search Engine Using the MIND Dataset](https://github.com/andyzhangstat/Semantic_Search_Engine)
 
 **Knowledge Graph**
 
