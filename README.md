@@ -39,6 +39,9 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat-square&logo=cmake&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-v7.10.2-blue)
+![Kibana](https://img.shields.io/badge/Kibana-v7.10.2-blue)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.24.0-blue)
 
 
 
