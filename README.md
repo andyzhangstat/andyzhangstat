@@ -25,6 +25,7 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-v1.19.0-blue)
 
 
 ####  Development:
