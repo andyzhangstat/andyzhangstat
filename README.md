@@ -54,6 +54,9 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 
 - [Applications of LLMs/RAG in personalized messages](https://github.com/andyzhangstat/RAG_LLMs)
 
+**Search Engine**
+
+- [Semantic Search Engine Using the MIND Dataset](https://github.com/andyzhangstat/Semantic_Search)
 
 **Knowledge Graph**
 
