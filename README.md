@@ -26,6 +26,8 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat-square&logo=dash&logoColor=white)
 ![Shiny](https://img.shields.io/badge/Shiny-blue?style=flat-square&logo=RStudio&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-v1.19.0-blue)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
 
 
 ####  Development:
@@ -43,7 +45,7 @@ Hi there, I’m [Andy Zhang](https://github.com/andyzhangstat). A data scientist
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-v7.10.2-blue)
 ![Kibana](https://img.shields.io/badge/Kibana-v7.10.2-blue)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-v1.24.0-blue)
-
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 
 
 ### Some of my projects
